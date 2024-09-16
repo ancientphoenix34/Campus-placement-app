@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+
+  .container{
+    margin-top: 45px;
+  }
+
+  .ApplyForPlacement{
+    margin-top: 15px;
+  }
+
+  .BackToView{
+  margin-top: 15px;
+  margin-left: 870px;
+  }
+
+  .ButtonsOfApplyPlacement{
+    float: left;
+  }
+  

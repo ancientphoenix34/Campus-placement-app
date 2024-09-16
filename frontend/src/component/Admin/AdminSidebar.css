@@ -1,0 +1,9 @@
+.Admin-sidebar{
+    display: flex;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.AdminLogOutButtton{
+    margin-top: 250px;
+}

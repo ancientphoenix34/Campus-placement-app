@@ -1,0 +1,37 @@
+.Homecard {
+    display: flex;
+    justify-content: space-between;
+    margin-left:300px ;
+    margin-top: 200px;
+  }
+  
+  .AdminHomeLogin,
+  .OfficerHomeLogin,
+  .StudentHomeLogin {
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Optional: Adjust the size of icons */
+  .AdminHomeLogin .fa-user-tie,
+  .OfficerHomeLogin .fa-person,
+  .StudentHomeLogin .fa-graduation-cap {
+    font-size: 75px;
+  }
+
+  .fa-person{
+    margin-left: 12px;
+
+  }
+  
+  .AdminHomeLogin {
+    margin-right: 10px;
+  }
+
+  
+  .StudentHomeLogin {
+    margin-left: 10px;
+  }
+  

@@ -1,0 +1,14 @@
+/* Your CSS styles go here */
+.card {
+    margin-top: 50px; /* Example margin for the card */
+    padding: 20px; /* Space between border and contents */
+}
+
+.AdminLoginButton{
+    margin-left: 120px;
+}
+
+/* Increase the size of the user tie icon */
+.card .fa-user-tie {
+    font-size: 36px; /* Adjust the size as per your requirement */
+}

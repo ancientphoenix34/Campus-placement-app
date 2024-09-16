@@ -1,0 +1,11 @@
+.card {
+    margin-top: 50px; /* Example margin for the card */
+    padding: 20px; /* Space between border and contents */
+}
+
+.btn{
+    margin-left: 120px;
+}
+.fa-graduation-cap{
+    font-size: 45px;
+}

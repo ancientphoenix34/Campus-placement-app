@@ -1,0 +1,27 @@
+.StudentDetails{
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.AcademicProfile{
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.ContactDetails{
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.CreateStudButton{
+margin-top: 20px;
+margin-bottom: 20px;
+}

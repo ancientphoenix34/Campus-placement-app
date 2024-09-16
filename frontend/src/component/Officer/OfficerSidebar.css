@@ -1,0 +1,10 @@
+
+.Officer-sidebar{
+  display: flex;
+  background-color: aliceblue;
+  padding: 10px;
+}
+
+.OfficerLogOutButtton{
+  margin-top: 170px;
+}

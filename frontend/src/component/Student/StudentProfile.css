@@ -1,0 +1,58 @@
+.ProfileViewPic{
+    float: right;
+    width: 120px;
+}
+
+.ProfViewTable{
+    width: 400px;
+}
+
+.personelDetailsCard th,
+.personelDetailsCard td{
+    border: 1px solid transparent;
+}
+
+th{
+    background-color: transparent;
+}
+
+.personelDetailsCard{
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.PersonelDetailsHeading{
+    border-radius: 3px;
+    background: linear-gradient(to bottom, #ededed, #f2f2f2); /* Darker background gradient */
+    margin-bottom: 10px;
+    margin-top: 25px;
+    padding: 10px 15px;
+    border: 1px solid #e0e0e0;
+}
+
+.StudProfAcademicDetailsCard{
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.academicDetailsHeading {
+    border-radius: 3px;
+    background: linear-gradient(to bottom, #ededed, #f2f2f2); /* Darker background gradient */
+    margin-bottom: 10px;
+    margin-top: 25px;
+    padding: 10px 15px;
+    border: 1px solid #e0e0e0;
+  }
+
+.CurrentCourse td,
+.CurrentCourse th{
+    border: 1px solid transparent;
+}
+
+.ResumeView{
+    margin-top: 25px;
+}

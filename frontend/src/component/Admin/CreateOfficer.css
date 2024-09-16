@@ -1,0 +1,56 @@
+/* Styles for Officerpersonaldetails */
+.Officerpersonaldetails {
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+/* .slctdeprt {
+    margin-right: 500px;
+} */
+/* Increase space between elements inside Officerpersonaldetails */
+.Officerpersonaldetails .row > * {
+    margin-bottom: 20px; /* Adjust the margin bottom as needed */
+}
+
+/* Additional space for specific elements, such as labels */
+.Officerpersonaldetails .form-label {
+    margin-bottom: 10px; /* Adjust the margin bottom as needed */
+}
+
+
+/* Styles for OfficerLoginDetails */
+.OfficerLoginDetails {
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+/* Adjustments for smaller screens */
+@media (max-width: 768px) {
+    .Officerpersonaldetails .row > * {
+        margin-bottom: 10px; /* Reduce margin for smaller screens */
+    }
+
+}
+
+/* Styles for OfficerButton */
+.OfficerButton {
+    margin-top: 25px;
+    float: right; /* Align the button to the right */
+    margin-bottom: 25px;
+}
+
+/* Adjustments for elements in Placement Login Details */
+.OfficerLoginDetails .form-label {
+    margin-bottom: 10px; /* Adjust the margin bottom as needed */
+}
+
+/* Additional space between elements */
+.OfficerLoginDetails .row > * {
+    margin-bottom: 20px; /* Adjust the margin bottom as needed */
+}
+
+
+

@@ -1,0 +1,12 @@
+.Student-sidebar{
+    display: flex;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.StudentLogOutButtton{
+    display: 'flex';
+    margin-top: 270px;
+    font-size: 3px;
+    border-radius: 10px;
+}

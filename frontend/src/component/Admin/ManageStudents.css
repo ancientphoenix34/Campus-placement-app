@@ -1,0 +1,30 @@
+/* CSS for aligning buttons to the right within table cell */
+.ManageStudentTable td {
+  position: relative;
+}
+
+/* Additional CSS to create equal space between columns */
+th,
+td {
+  flex: 1;
+}
+
+/* Specific CSS to target the buttons and adjust their positioning */
+.ManageStudView{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px; /* Adjust as necessary */
+    width: 100x;
+    margin-left: 25px;
+}
+.ManageStudDel {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 80px; /* Adjust as necessary */
+  margin-left: 25px;
+}
+
+  
+  

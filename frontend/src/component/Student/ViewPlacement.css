@@ -1,0 +1,20 @@
+/* CSS for aligning buttons to the right within table cell */
+td {
+    position: relative;
+  }
+  
+  /* Additional CSS to create equal space between columns */
+  th,
+  td {
+    flex: 1;
+  }
+  
+  /* Specific CSS to target the buttons and adjust their positioning */
+  .PlacementView{
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 45px; /* Adjust as necessary */
+      width: 100x;
+      margin-left: 20px;
+  }
